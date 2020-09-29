@@ -30,6 +30,7 @@ Application process of a company is a reflection on their culture and internal p
 | Dgraph | Bangalore | https://jobs.lever.co/dgraph | N/A |
 | UiPath |  Bangalore | https://jobs.lever.co/uipath | N/A |
 | Unilever |  Bangalore | https://careers.unilever.com/in/en | N/A |
+| NTT DATA Services |  Bangalore | https://careers-inc.nttdata.com/search/ | N/A |
 
 
 
