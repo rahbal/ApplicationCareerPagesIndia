@@ -6,6 +6,6 @@ To add a company, either [create an issue](https://github.com/rahbal/Application
 
 
 | Name  | Location(s)  |  Careers page |  Relocation bonus? |
-|-------|--------------|-----------------|---------------|--------------------|
+|-------|--------------|-----------------|---------------|
 | Paytm | Noida | https://jobs.lever.co/paytm | N/A |     
 | Directi |  Bangalore | https://jobs.lever.co/directi | N/A |
