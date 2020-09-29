@@ -29,6 +29,7 @@ Application process of a company is a reflection on their culture and internal p
 | Fanatics |  Hyderabad | https://jobs.lever.co/fanatics | N/A |
 | Dgraph | Bangalore | https://jobs.lever.co/dgraph | N/A |
 | UiPath |  Bangalore | https://jobs.lever.co/uipath | N/A |
+| Unilever |  Bangalore | https://careers.unilever.com/in/en | N/A |
 
 
 
