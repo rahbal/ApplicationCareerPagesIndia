@@ -24,6 +24,12 @@ Application process of a company is a reflection on their culture and internal p
 | Binance |  Bangalore | https://jobs.lever.co/binance | ✔️ |
 | Netomi |  Bangalore | https://jobs.lever.co/netomi | N/A |
 | Lalamove |  Bangalore <br> Mumbai <br> New Delhi <br> Ahmedabad <br> Chennai <br> Pune | https://jobs.lever.co/lalamove | N/A |
+| Coursera |  Gurgaon | https://jobs.lever.co/coursera | N/A |
+| Redhat |  Mumbai <br> Pune <br> Bangalore <br> New Delhi | https://careers-redhat.icims.com/jobs/search | ✔️ |
+
+
+
+
 
 
 
