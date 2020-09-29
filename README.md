@@ -26,8 +26,9 @@ Application process of a company is a reflection on their culture and internal p
 | Lalamove |  Bangalore <br> Mumbai <br> New Delhi <br> Ahmedabad <br> Chennai <br> Pune | https://jobs.lever.co/lalamove | N/A |
 | Coursera |  Gurgaon | https://jobs.lever.co/coursera | N/A |
 | Redhat |  Mumbai <br> Pune <br> Bangalore <br> New Delhi | https://careers-redhat.icims.com/jobs/search | ✔️ |
-
+| Fanatics |  Hyderabad | https://jobs.lever.co/fanatics | N/A |
 | Dgraph | Bangalore | https://jobs.lever.co/dgraph | N/A |
+| UiPath |  Bangalore | https://jobs.lever.co/uipath | N/A |
 
 
 
