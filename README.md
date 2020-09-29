@@ -1,16 +1,20 @@
 # Application Career Pages - India
 
 To add a company, either [create an issue](https://github.com/rahbal/ApplicationCareerPagesIndia/issues) with the relevant details or send a PR adhering to the format specified and try to provide as much information as possible.
-
-**Please verify this information as it may not always be fully up-to-date.**
-
+<br>
 Jobvite, Lever, Greenhouse, Taleo, etc. systems that auto-fill from your resume are good additions. Verified and Good links only.
 
+<br>
+<br>
 
-Application process of a company is a reflection on their culture and internal processes. Every link is to the company's main career page so that you can spend some time learning about the company and making sure it's a good fit for you before applying.
+**Application process of a company is a reflection on their culture and internal processes. Every link is to the company's main career page so that you can spend some time learning about the company and making sure it's a good fit for you before applying.**
 
 
+<br>
+<br>
 
+<br>
+<br>
 
 
 | Name  | Location(s)  |  Careers page |  Relocation bonus? |
