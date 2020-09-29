@@ -7,6 +7,9 @@ To add a company, either [create an issue](https://github.com/rahbal/Application
 Jobvite, Lever, Greenhouse, Taleo, etc. systems that auto-fill from your resume are good additions. Verified and Good links only.
 
 
+Application process of a company is a reflection on their culture and internal processes. Every link is to the company's main career page so that you can spend some time learning about the company and making sure it's a good fit for you before applying.
+
+
 
 
 
@@ -14,3 +17,18 @@ Jobvite, Lever, Greenhouse, Taleo, etc. systems that auto-fill from your resume 
 |-------|--------------|-----------------|---------------|
 | Paytm | Noida | https://jobs.lever.co/paytm | N/A |     
 | Directi |  Bangalore | https://jobs.lever.co/directi | N/A |
+| Atlassian |  Bangalore | https://jobs.lever.co/atlassian | N/A |
+
+
+| Confluent |  Bangalore | https://jobs.lever.co/confluent | N/A |
+| Springboard |  Bangalore | https://jobs.lever.co/springboard/ | N/A |
+| Disney+Hotstar |  Bangalore <br> Mumbai <br> Gurgaon | https://jobs.lever.co/hotstar | N/A |
+| Binance |  Bangalore | https://jobs.lever.co/binance | N/A |
+| Netomi |  Bangalore | https://jobs.lever.co/netomi | N/A |
+
+
+
+https://jobs.lever.co/hotstar
+https://jobs.lever.co/binance
+https://jobs.lever.co/netomi
+
