@@ -16,19 +16,15 @@ Application process of a company is a reflection on their culture and internal p
 | Name  | Location(s)  |  Careers page |  Relocation bonus? |
 |-------|--------------|-----------------|---------------|
 | Paytm | Noida | https://jobs.lever.co/paytm | N/A |     
-| Directi |  Bangalore | https://jobs.lever.co/directi | N/A |
+| Directi |  Bangalore | https://jobs.lever.co/directi | ✔️ |
 | Atlassian |  Bangalore | https://jobs.lever.co/atlassian | N/A |
-
-
 | Confluent |  Bangalore | https://jobs.lever.co/confluent | N/A |
 | Springboard |  Bangalore | https://jobs.lever.co/springboard/ | N/A |
 | Disney+Hotstar |  Bangalore <br> Mumbai <br> Gurgaon | https://jobs.lever.co/hotstar | N/A |
-| Binance |  Bangalore | https://jobs.lever.co/binance | N/A |
+| Binance |  Bangalore | https://jobs.lever.co/binance | ✔️ |
 | Netomi |  Bangalore | https://jobs.lever.co/netomi | N/A |
+| Lalamove |  Bangalore <br> Mumbai <br> New Delhi <br> Ahmedabad <br> Chennai <br> Pune | https://jobs.lever.co/lalamove | N/A |
 
 
 
-https://jobs.lever.co/hotstar
-https://jobs.lever.co/binance
-https://jobs.lever.co/netomi
 
