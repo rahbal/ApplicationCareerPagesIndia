@@ -14,29 +14,36 @@ Jobvite, Lever, Greenhouse, Taleo, etc. systems that auto-fill from your resume 
 
 | Name  | Location(s)  |  Careers page |  Relocation bonus? |
 |-------|--------------|-----------------|---------------|
-| Paytm | Noida | https://jobs.lever.co/paytm | N/A |     
+| Paytm | Noida | https://jobs.lever.co/paytm | NA |     
 | Directi |  Bangalore | https://jobs.lever.co/directi | ✔️ |
-| Atlassian |  Bangalore | https://jobs.lever.co/atlassian | N/A |
-| Confluent |  Bangalore | https://jobs.lever.co/confluent | N/A |
-| Springboard |  Bangalore | https://jobs.lever.co/springboard/ | N/A |
-| Disney+Hotstar |  Bangalore <br> Mumbai <br> Gurgaon | https://jobs.lever.co/hotstar | N/A |
+| Atlassian |  Bangalore | https://jobs.lever.co/atlassian | NA |
+| Confluent |  Bangalore | https://jobs.lever.co/confluent | NA |
+| Springboard |  Bangalore | https://jobs.lever.co/springboard/ | NA |
+| Disney+Hotstar |  Bangalore <br> Mumbai <br> Gurgaon | https://jobs.lever.co/hotstar | NA |
 | Binance |  Bangalore | https://jobs.lever.co/binance | ✔️ |
-| Netomi |  Bangalore | https://jobs.lever.co/netomi | N/A |
-| Lalamove |  Bangalore <br> Mumbai <br> New Delhi <br> Ahmedabad <br> Chennai <br> Pune | https://jobs.lever.co/lalamove | N/A |
-| Coursera |  Gurgaon | https://jobs.lever.co/coursera | N/A |
+| Netomi |  Bangalore | https://jobs.lever.co/netomi | NA |
+| Lalamove |  Bangalore <br> Mumbai <br> New Delhi <br> Ahmedabad <br> Chennai <br> Pune | https://jobs.lever.co/lalamove | NA |
+| Coursera |  Gurgaon | https://jobs.lever.co/coursera | NA |
 | Redhat |  Mumbai <br> Pune <br> Bangalore <br> New Delhi | https://careers-redhat.icims.com/jobs/search | ✔️ |
-| Fanatics |  Hyderabad | https://jobs.lever.co/fanatics | N/A |
-| Dgraph | Bangalore | https://jobs.lever.co/dgraph | N/A |
-| UiPath |  Bangalore | https://jobs.lever.co/uipath | N/A |
-| Unilever |  Bangalore | https://careers.unilever.com/in/en | N/A |
-| NTT DATA Services |  Bangalore <br> Noida <br> Gurgaon <br> Coimbatore <br> Chennai | https://careers-inc.nttdata.com/search/ | N/A |
-| Zomato | Gurgaon <br> Bengaluru | https://www.zomato.com/careers | N/A |
-| Uber | Bangalore <br> Gurgaon | https://www.uber.com/us/en/careers/ | N/A |
-| Unilever | Bangalore | https://careers.unilever.com/in/en | N/A |
-| Bosch | Bangalore | https://www.bosch.in/careers/ | N/A |
-| Shell India | Bangalore <br> Hyderabad | https://www.shell.in/careers.html | N/A |
-| IBM | Bangalore | https://www.ibm.com/in-en/employment/index.html | N/A |
-| Randstad | Noida <br> Gurgaon <br> Bangalore | https://www.randstad.in/jobs/ | N/A |
+| Fanatics |  Hyderabad | https://jobs.lever.co/fanatics | NA |
+| Dgraph | Bangalore | https://jobs.lever.co/dgraph | NA |
+| UiPath |  Bangalore | https://jobs.lever.co/uipath | NA |
+| Unilever |  Bangalore | https://careers.unilever.com/in/en | NA |
+| NTT DATA Services |  Bangalore <br> Noida <br> Gurgaon <br> Coimbatore <br> Chennai | https://careers-inc.nttdata.com/search/ | NA |
+| Zomato | Gurgaon <br> Bengaluru | https://www.zomato.com/careers | NA |
+| Uber | Bangalore <br> Gurgaon | https://www.uber.com/us/en/careers/ | NA |
+| Unilever | Bangalore | https://careers.unilever.com/in/en | NA |
+| Bosch | Bangalore | https://www.bosch.in/careers/ | NA |
+| Shell India | Bangalore <br> Hyderabad | https://www.shell.in/careers.html | NA |
+| IBM | Bangalore | https://www.ibm.com/in-en/employment/index.html | NA |
+| Randstad | Noida <br> Gurgaon <br> Bangalore | https://www.randstad.in/jobs/ | NA |
+| ABB | Bangalore | https://new.abb.com/indian-subcontinent/careers | NA |
+| Accenture | Gurgaon | https://www.accenture.com/in-en/careers | NA |
+| WRI India | New Delhi <br> Mumbai | https://jobs.jobvite.com/wri-india/jobs | NA |
+| Covance | Bangalore | https://jobs.jobvite.com/wri-india/jobs | NA |
+| Zscaler | Bangalore <br> Chandigarh | https://jobs.jobvite.com/zscaler/ | NA |
+| Logitech | Bangalore | https://jobs.jobvite.com/logitech/ | NA |
+
 
 
 
