@@ -1,4 +1,4 @@
-# Application Career Pages - India
+# Career Pages - India
 
 To add a company, either [create an issue](https://github.com/rahbal/ApplicationCareerPagesIndia/issues) with the relevant details or send a PR adhering to the format specified and try to provide as much information as possible.
 <br>
