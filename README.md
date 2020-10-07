@@ -36,6 +36,7 @@ Jobvite, Lever, Greenhouse, Taleo, etc. systems that auto-fill from your resume 
 | Bosch | Bangalore | https://www.bosch.in/careers/ | N/A |
 | Shell India | Bangalore <br> Hyderabad | https://www.shell.in/careers.html | N/A |
 | IBM | Bangalore | https://www.ibm.com/in-en/employment/index.html | N/A |
+| Randstad | Noida <br> Gurgaon <br> Bangalore | https://www.randstad.in/jobs/ | N/A |
 
 
 
