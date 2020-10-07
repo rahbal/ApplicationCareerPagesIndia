@@ -34,6 +34,7 @@ Jobvite, Lever, Greenhouse, Taleo, etc. systems that auto-fill from your resume 
 | Uber | Bangalore <br> Gurgaon | https://www.uber.com/us/en/careers/ | N/A |
 | Unilever | Bangalore | https://careers.unilever.com/in/en | N/A |
 | Bosch | Bangalore | https://www.bosch.in/careers/ | N/A |
+| Shell India | Bangalore <br> Hyderabad | https://www.shell.in/careers.html | N/A |
 
 
 
