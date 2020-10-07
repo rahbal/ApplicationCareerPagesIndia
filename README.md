@@ -43,6 +43,7 @@ Jobvite, Lever, Greenhouse, Taleo, etc. systems that auto-fill from your resume 
 | Covance | Bangalore | https://jobs.jobvite.com/wri-india/jobs | NA |
 | Zscaler | Bangalore <br> Chandigarh | https://jobs.jobvite.com/zscaler/ | NA |
 | Logitech | Bangalore | https://jobs.jobvite.com/logitech/ | NA |
+| Oracle | Hyderabad <br> Bangalore <br> Gurgaon <br> Pune | https://www.oracle.com/in/corporate/careers/ | NA |
 
 
 
