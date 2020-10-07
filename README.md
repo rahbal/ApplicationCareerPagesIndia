@@ -30,6 +30,9 @@ Jobvite, Lever, Greenhouse, Taleo, etc. systems that auto-fill from your resume 
 | UiPath |  Bangalore | https://jobs.lever.co/uipath | N/A |
 | Unilever |  Bangalore | https://careers.unilever.com/in/en | N/A |
 | NTT DATA Services |  Bangalore <br> Noida <br> Gurgaon <br> Coimbatore <br> Chennai | https://careers-inc.nttdata.com/search/ | N/A |
+| Zomato | Gurgaon <br> Bengaluru | https://www.zomato.com/careers | N/A |
+| Uber | Bangalore <br> Gurgaon | https://www.uber.com/us/en/careers/ | N/A |
+
 
 
 
