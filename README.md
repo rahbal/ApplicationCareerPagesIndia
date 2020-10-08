@@ -44,7 +44,9 @@ Jobvite, Lever, Greenhouse, Taleo, etc. systems that auto-fill from your resume 
 | Zscaler | Bangalore <br> Chandigarh | https://jobs.jobvite.com/zscaler/ | NA |
 | Logitech | Bangalore | https://jobs.jobvite.com/logitech/ | NA |
 | Oracle | Hyderabad <br> Bangalore <br> Gurgaon <br> Pune | https://www.oracle.com/in/corporate/careers/ | NA |
-
+| Cisco | Hyderabad <br> Bangalore | https://jobs.cisco.com/jobs | NA |
+| Hewlett-Packard | Bangalore | https://www.hpe.com/in/en/about/jobs.html | NA |
+| VMware | Bangalore | https://careers.vmware.com/ | NA |
 
 
 
