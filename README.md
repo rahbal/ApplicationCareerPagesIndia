@@ -52,6 +52,8 @@ Jobvite, Lever, Greenhouse, Taleo, Brassring, etc. systems that auto-fill from y
 
 
 
-> If you find any information that is incorrect, please [create an issue](https://github.com/rahbal/ApplicationCareerPagesIndia/issues) without hesitation. Please be supportive of efforts by others. This resource is built for everyone, by everyone.
+> If you find any information that is incorrect, please [create an issue](https://github.com/rahbal/ApplicationCareerPagesIndia/issues) without hesitation.
+> Be supportive of efforts of others. 
+> Built for everyone, by everyone. Open Document.
 
 
