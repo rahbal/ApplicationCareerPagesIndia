@@ -48,9 +48,12 @@ Jobvite, Lever, Greenhouse, Taleo, Brassring, etc. systems that auto-fill from y
 | VMware | Bangalore | https://careers.vmware.com/ | 30 days | NA |
 | Infoblox | Bangalore | https://jobs.jobvite.com/careers/infoblox/ |  | NA |
 | CouchBase | Bangalore | https://jobs.lever.co/couchbase |  | NA |
-| HCL | Bangalore <br> Noida <br> Lucknow <br> Chandigarh | https://www.hcltech.com/careers | 2 months | NA |
+| HCL | Bangalore <br> Noida <br> Lucknow <br> Chandigarh | https://www.hcltech.com/careers | 60 days | NA |
+| Expedia | Bangalore <br> Gurgaon | https://lifeatexpediagroup.com/ | 90 days | NA |
 
 
+<br>
+<br>
 
 > If you find any information that is incorrect, please [create an issue](https://github.com/rahbal/ApplicationCareerPagesIndia/issues) without hesitation.
 > Be supportive of efforts of others. 
