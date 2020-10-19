@@ -13,7 +13,7 @@ Jobvite, Lever, Greenhouse, Taleo, Brassring, etc. systems that auto-fill from y
 
 | Name  | Location(s)  |  Careers page | Notice Period | Relocation bonus? |
 |-------|--------------|-----------------|---------------|--------------|
-| Paytm | Noida | https://jobs.lever.co/paytm | 2 months | NA |     
+| Paytm | Noida | [https://jobs.lever.co/paytm] | 2 months | NA |     
 | Directi |  Bangalore | https://jobs.lever.co/directi |  | ✔️ |
 | Atlassian |  Bangalore | https://jobs.lever.co/atlassian |  | NA |
 | Confluent |  Bangalore | https://jobs.lever.co/confluent |  | NA |
