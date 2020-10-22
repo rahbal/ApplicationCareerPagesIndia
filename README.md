@@ -50,6 +50,8 @@ Jobvite, Lever, Greenhouse, Taleo, Brassring, etc. systems that auto-fill from y
 | CouchBase | Bangalore | https://jobs.lever.co/couchbase |  | NA |
 | HCL | Bangalore <br> Noida <br> Lucknow <br> Chandigarh | https://www.hcltech.com/careers | 60 days | NA |
 | Expedia | Bangalore <br> Gurgaon | https://lifeatexpediagroup.com/ | 90 days | NA |
+| Rackspace | Bangalore <br> Gurgaon <br> Hyderabad | https://jobs.lever.co/rackspace/ |  | NA |
+
 
 
 <br>
