@@ -52,6 +52,7 @@ Jobvite, Lever, Greenhouse, Taleo, Brassring, etc. systems that auto-fill from y
 | Expedia | Bangalore <br> Gurgaon | https://lifeatexpediagroup.com/ | 90 days | NA |
 | Rackspace | Bangalore <br> Gurgaon <br> Hyderabad | https://jobs.lever.co/rackspace/ |  | NA |
 | Goldman Sachs | Bengaluru | https://www.goldmansachs.com/careers/ |  | NA |
+| Vodafone | Bengaluru | https://careers.vodafone.com/ |  | NA |
 
 
 <br>
