@@ -44,7 +44,7 @@ Jobvite, Lever, Greenhouse, Taleo, Brassring, etc. systems that auto-fill from y
 | Logitech | Bangalore | https://jobs.jobvite.com/logitech/ |  | NA |
 | Oracle | Hyderabad <br> Bangalore <br> Gurgaon <br> Pune | https://www.oracle.com/in/corporate/careers/ |  | NA |
 | Cisco | Hyderabad <br> Bangalore | https://jobs.cisco.com/jobs |  | NA |
-| Hewlett-Packard | Bangalore | https://www.hpe.com/in/en/about/jobs.html |  | NA |
+| Hewlett-Packard Enterprise | Bangalore | https://www.hpe.com/in/en/about/jobs.html |  | NA |
 | VMware | Bangalore | https://careers.vmware.com/ | 30 days | NA |
 | Infoblox | Bangalore | https://jobs.jobvite.com/careers/infoblox/ |  | NA |
 | CouchBase | Bangalore | https://jobs.lever.co/couchbase |  | NA |
