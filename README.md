@@ -56,7 +56,9 @@ Jobvite, Lever, Greenhouse, Taleo, Brassring, etc. systems that auto-fill from y
 | Goldman Sachs | Bangalore | https://www.goldmansachs.com/careers/ |  | NA |
 | Vodafone | Bangalore | https://careers.vodafone.com/ |  | NA |
 | Gojek | Bangalore <br> Gurgaon | https://jobs.lever.co/gojek |  | NA |
-
+| American Express | Bangalore <br> Gurgaon | https://careers.americanexpress.com/ |  | NA |
+| Swiggy | Bangalore | https://jobs.lever.co/swiggy/ |  | NA |
+| Grab | Bangalore <br> Gurgaon | https://grab.careers/jobs/ |  | NA |
 
 <br>
 <br>
