@@ -6,7 +6,7 @@ To add a company, either [create an issue](https://github.com/rahbal/Application
 Jobvite, Lever, Greenhouse, Taleo, Brassring, etc. systems that auto-fill from your resume are good additions. Verified and Good links only.
 <br>
 
-> Companies are listed with Locations of their Office in India. However, links are completely Location Neutral, anyone accross the globe can find these links helpful.
+> Companies are listed with locations of their Office in India. However, links are completely location-neutral, anyone across the globe can apply using the links.
 
 **Application process of a company is a reflection on their culture and internal processes, you can spend some time learning about the company and making sure it's a good fit for you before applying.**
 
